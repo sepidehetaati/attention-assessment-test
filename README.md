@@ -16,3 +16,16 @@ Scoring yields raw totals 20–80; higher scores indicate better attentional con
 git clone https://github.com/sepidehetaati/attention-assessment-test.git
 cd attention-assessment-test
 ```
+## Usage
+```python
+from assessment import ACS, MAAS, TMT
+
+acs = ACS(data)      # data: list of 20 responses
+print(acs.score())   # raw score 20‑80
+
+maas = MAAS(data)    # data: list of 15 responses
+print(maas.mean())   # mean score 1‑6
+
+tmt = TMT()
+tmt.run()            # launches interactive TMT
+```
