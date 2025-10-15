@@ -3,13 +3,10 @@ A lightweight Python package that implements three widely‑used cognitive‑att
 
 ## Features
 
-- ACS‑20: 20‑item self‑report, 4‑point Likert (1 = almost never → 4 = always) assessing focusing (9 items) and shifting (11 items) 
-Scoring yields raw totals 20–80; higher scores indicate better attentional control 
-
-- MAAS: 15‑item trait mindfulness scale, 6‑point frequency (1 = almost always → 6 = almost never) capturing present‑focused awareness 
-  Scoring is the mean of all items 
-
-- TMT: computerized Trail‑Making Test (parts A & B) measuring processing speed and set‑shifting.
+- ACS 20: 20-item self-report, 4-point Likert (1 = almost never → 4 = always) assessing focusing (9 items) and shifting (11 items)  . Scoring yields raw totals ranging from 20 to 80; higher scores indicate better attentional control. The questions in this code are written in Persian; you can change them to your own language. 
+- MAAS: 15-item trait mindfulness scale, 6-point frequency (1 = almost always → 6 = almost never) capturing present-focused awareness . Scoring is the mean of all items.  The questions in this code are written in Persian; you can change them to your own language. 
+ 
+- TMT: computerized Trail Making Test (parts A & B), measuring processing speed and set shifting. This code consists of a series of TMT-A and TMT-B tests that can be edited in the default part. This code will capture mouse and webcam data, as well as the time, number of correct and incorrect answers.
 
 ## Installation
 ```
