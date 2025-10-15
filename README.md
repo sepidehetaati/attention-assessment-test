@@ -29,3 +29,8 @@ print(maas.mean())   # mean score 1‑6
 tmt = TMT()
 tmt.run()            # launches interactive TMT
 ```
+## Validation & Reliability
+
+- ACS‑20 shows strong internal consistency (α ≈ 0.71–0.92) across diverse samples 
+
+- MAAS has been validated in clinical (e.g., cancer) populations and demonstrates good psychometric properties
