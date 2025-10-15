@@ -10,3 +10,9 @@ Scoring yields raw totals 20–80; higher scores indicate better attentional con
   Scoring is the mean of all items 
 
 - TMT: computerized Trail‑Making Test (parts A & B) measuring processing speed and set‑shifting.
+
+## Installation
+```
+git clone https://github.com/sepidehetaati/attention-assessment-test.git
+cd attention-assessment-test
+```
