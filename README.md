@@ -33,5 +33,7 @@ tmt.run()            # launches interactive TMT
 
 ## References
 [1] [http://doi.org/10.5281/zenodo.3406466](URL)
+
 [2] Townshend, K. and Bornschlegl, M., 2025. Attention control scale (ACS). In Handbook of Assessment in Mindfulness Research (pp. 1659-1675). Cham: Springer Nature Switzerland.
+
 [3] Brown, K.W. and Ryan, R.M., 2003. The benefits of being present: mindfulness and its role in psychological well-being. Journal of personality and social psychology, 84(4), p.822.
